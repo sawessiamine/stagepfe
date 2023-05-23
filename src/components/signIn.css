@@ -1,0 +1,26 @@
+.Signin{
+	margin-left: 250px;
+	display: flex;
+}
+
+.thesignIN{
+	margin-top: 100px;
+	margin-left: 50px;
+}
+.ELEM{
+	margin-top: 10px ;
+
+}
+
+.btnSign{
+	margin-top: 10px;
+	margin-left: 170px;
+}
+.img-fluid2{
+	margin-top: 100px;
+	margin-left: 10px;
+	width : 400px ; 
+	height: 300px;
+}
+
+
